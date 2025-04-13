@@ -62,7 +62,7 @@ git clone https://github.com/codeharris/book-finder.git
 cd book-finder
 ```
 
-## 🗺 Roadmap
+## Roadmap
 
 - [ ] Pagination for long search results
 - [ ] Dark mode toggle
